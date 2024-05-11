@@ -1,0 +1,7 @@
+#canvas {
+    width: 100vw;
+    height: 90vh;
+    min-width: 500px;
+    min-height: 500px;
+    background-color: gainsboro;
+}

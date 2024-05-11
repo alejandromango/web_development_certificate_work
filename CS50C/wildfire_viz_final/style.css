@@ -1,0 +1,21 @@
+rect {
+    fill: orangered;
+    fill-opacity: 0.8;
+  }
+
+rect:hover {
+    fill-opacity: 1;
+  }
+
+path {
+    fill-opacity: 0.8;
+  }
+
+.selected,
+path:hover {
+    fill-opacity: 1;
+  }
+
+  .axis {
+    font-size: large;
+  }

@@ -1,0 +1,60 @@
+[{"title":"My Indian Pizza",
+  "lat": 37.36598525297432,
+  "lng": -122.01836882576139,
+  "favorite_dish": "Haryali paneer pizza"
+  },
+  {"title":"Delhiwala Chaat",
+  "lat": 37.366781973716314,
+  "lng": -122.01821460216134,
+  "favorite_dish": "Samosa chaat, sev puri, and paneer pakora"
+  },
+  {"title":"A Slice of New York Pizza",
+  "lat": 37.375116391186666,
+  "lng": -122.01821460216134,
+  "favorite_dish": "Times Square pizza and garlic knots"
+  },
+  {"title":"Merit Vegan Restaurant",
+  "lat": 37.366781973716314,
+  "lng": -122.01836882576139,
+  "favorite_dish": "Golden Era"
+  },
+  {"title":"Shizen",
+  "lat": 37.7686593599187,
+  "lng": -122.42159689161161,
+  "favorite_dish": "Cna't remember!"
+  },
+  {"title":"Boichick Bagels",
+  "lat": 37.444989237840495,
+  "lng":-122.15873987575803,
+  "favorite_dish": "Pumperthingle bagel with cream cheese, tomato, red onions, and capers"
+  },
+  {"title":"Beauty's Bagel Shop",
+  "lat": 37.8278806114638,
+  "lng":-122.26409657771731,
+  "favorite_dish": "Everything bagel with cream cheese, tomato, red onions, and capers"
+  },
+  {"title":"Ballast Coffee",
+  "lat": 37.73720143329734,
+  "lng":-122.47061369727524,
+  "favorite_dish": "Barrako Crush"
+  },
+  {"title": "Chili House SF",
+  "lat": 37.78342436140205,
+  "lng":-122.465792323164939,
+  "favorite_dish": "Vegetarian Mapo Tofu"
+  },
+  {"title":"Sparky's Giant Burgers",
+  "lat": 37.800841608544005,
+  "lng":-122.169356857593462,
+  "favorite_dish": "Onion rings (the burgers are only OK, but the onion rings are amazing"
+  },
+  {"title":"Breakfast Little",
+  "lat": 37.75525796513669,
+  "lng":-122.42038577016248,
+  "favorite_dish": "Tia Maria burrito"
+  },
+  {"title":"Trail House",
+  "lat": 38.45348999461189,
+  "lng":-122.67275688694822,
+  "favorite_dish": "A nice fruited sour and mozarella sticks"
+  }]

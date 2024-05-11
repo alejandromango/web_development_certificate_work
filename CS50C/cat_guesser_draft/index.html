@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!-- Students: Please use this week's project for Week 5: Assignment 5: Shared Libraries. 
+     You will need to replace the contents of this HTML file with your own work, 
+     and create any other files, if any, required for the assignment.
+     When you are done, be certain to submit the assignment in both Repl.it and Canvas to be graded. -->
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>CS50C Week05</title>
+    <script
+      src="https://code.jquery.com/jquery-3.7.1.js"
+      integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+      crossorigin="anonymous"
+    ></script>
+    <!-- <script src="/src/jquery-3.7.1.min.js"></script> -->
+  </head>
+  <body>
+    <h1>Cat Identification Quiz</h1>
+    <p>
+      Can you guess the species of cat (family Felidae) shown in the picture?
+    </p>
+    <img src="" width="300px" id="question_image" />
+    <h2>Cat <span id="q_num">1</span>/3</h2>
+    <h2>What is your guess? <span id="feedback"></span></h2>
+    <form>
+      <input type="radio" name="cat_guess" id="guess1" required />
+      <label for="guess1" id="guess1label">Sample</label>
+      <input type="radio" name="cat_guess" id="guess2" required />
+      <label for="guess2" id="guess2label">Guess</label>
+      <input type="radio" name="cat_guess" id="guess3" required />
+      <label for="guess3" id="guess3label">Here</label>
+    </form>
+    <button id="submit">Submit Guess</button>
+    <p id="attribution">All media</p>
+    <script src="game.js"></script>
+    <div id="success" title="You Win!"></div>
+  </body>
+</html>

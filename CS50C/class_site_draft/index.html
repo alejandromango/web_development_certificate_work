@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!-- Students: Please use this week's project for Week 15: Assignment 13: Basic Mobile App.
+     You will need to replace the contents of this HTML file with your own work,
+     and create any other files, if any, required for the assignment.
+     When you are done, be certain to submit the assignment in both Repl.it and Canvas to be graded. -->
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>CS50C Week15</title>
+  </head>
+  <body>
+    <!-- create an element that can be the root element for your react application -->
+    <div id="myApp"></div>
+
+    <!-- load React - note when deploying, replace "development.js" with "production.min.js". -->
+    <script
+      src="https://unpkg.com/react@18/umd/react.development.js"
+      crossorigin
+    ></script>
+    <script
+      src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
+      crossorigin
+    ></script>
+
+    <!-- load babel transpiler to convert React's JSX markup to pure JavaScript
+       Note: we only need babel loaded in the browser if we are not using a build system
+       where babel would save pure JS files to be loaded by the browser instead -->
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+    <!-- load our custom script with react component
+       Note: the type attribute MUST be set here to allow babel to convert JSX in our
+       script to pure JS! -->
+    <script src="script.js" type="text/babel"></script>
+  </body>
+</html>
