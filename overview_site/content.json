@@ -1,0 +1,92 @@
+{
+"Games":[{
+    "title": "Binary Search Guessing Game",
+    "description": "A guessing game to try out binary searching.",
+    "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Binary_search_example_tree.svg/240px-Binary_search_example_tree.svg.png",
+    "date": "12 February 2024",
+    "url": "https://alejandromango.github.io/web_development_certificate_work/CS50C/binary_search/index.html"
+},
+{
+    "title": "Cat Identification Quiz (Round 1)",
+    "description": "Guess the name of the cat shown in the image.",
+    "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Clouded_Leopard_%28205918213%29.jpeg/197px-Clouded_Leopard_%28205918213%29.jpeg",
+    "date": "19 February 2024",
+    "url": "https://alejandromango.github.io/web_development_certificate_work/CS50C/cat_guesser_draft/index.html"
+},
+{
+    "title": "Cat Identification Quiz (Round 2)",
+    "description": "Guess the name of the cat shown in the image, with draggables.",
+    "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Manoel.jpg/240px-Manoel.jpg",
+    "date": "26 February 2024",
+    "url": "https://alejandromango.github.io/web_development_certificate_work/CS50C/cat_guesser_final/index.html"
+},
+{
+    "title": "Capybara Collector",
+    "description": "A game based on a Phaser 3 tutorial about a capybara collecting oranges.",
+    "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kapybara_Kolm%C3%A5rden.jpg/320px-Kapybara_Kolm%C3%A5rden.jpg",
+    "date": "22 April 2024",
+    "url": "https://alejandromango.github.io/web_development_certificate_work/CS50C/capy_collector/index.html"
+},
+{
+    "title": "Swimming Capy",
+    "description": "A game built using Phaser 3 about a capybara trying to swim.",
+    "image_path": "https://alejandromango.github.io/web_development_certificate_work/CS50C/swimming_capy/assets/capytub.png",
+    "date": "29 April 2024",
+    "url": "https://alejandromango.github.io/web_development_certificate_work/CS50C/swimming_capy/index.html"
+},
+{
+    "title": "Happy Capy",
+    "description": "A game about a capy trying to take a dip. Now mobile compatible!",
+    "image_path": "images/happycapy.png",
+    "date": "30 April 2024",
+    "url": "https://alejandromango.github.io/happycapy"
+}],
+"Experiments":[{
+    "title": "js Tutorials",
+    "description": "A small assignment to experiment with basic js",
+    "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png",
+    "date": "5 February 2024",
+    "url": "https://alejandromango.github.io/web_development_certificate_work/CS50C/js_tutorials/index.html"
+},
+{
+    "title": "jQuery Experiments",
+    "description": "A small assignment to experiment with jQuery plugins",
+    "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/640px-JQuery-Logo.svg.png",
+    "date": "4 March 2024",
+    "url": "https://alejandromango.github.io/web_development_certificate_work/CS50C/jquery_plugin_experiments/index.html"
+},
+{
+    "title": "This Site!",
+    "description": "An early draft of this site",
+    "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Atari_Portfolio.jpg/278px-Atari_Portfolio.jpg",
+    "date": "6 May 2024",
+    "url": "https://alejandromango.github.io/web_development_certificate_work/CS50C/class_site_draft/index.html"
+}],
+"Visualizations":[{
+    "title": "Colleges",
+    "description": "A map showing all of the colleges where I have been a student.",
+    "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Graduate_Cap_%281051%29_-_The_Noun_Project.svg/320px-Graduate_Cap_%281051%29_-_The_Noun_Project.svg.png",
+    "date": "11 March 2024",
+    "url": "https://alejandromango.github.io/web_development_certificate_work/CS50C/colleges/index.html"
+},
+{
+    "title": "Restaurants",
+    "description": "A map with details on my favorite restaurants throughout the bay area.",
+    "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bemmel_-_paarden_in_de_modder.jpg/283px-Bemmel_-_paarden_in_de_modder.jpg",
+    "date": "25 March 2024",
+    "url": "https://alejandromango.github.io/web_development_certificate_work/CS50C/favorite_restaurants/index.html"
+},
+{
+    "title": "Wildfires Visualization (Round 1)",
+    "description": "A bar chart visualization of wildfire burn area in the United States",
+    "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lick_Fire_on_the_Umatilla_National_Forest_burning_at_night.jpg/320px-Lick_Fire_on_the_Umatilla_National_Forest_burning_at_night.jpg",
+    "date": "8 April 2024",
+    "url": "https://alejandromango.github.io/web_development_certificate_work/CS50C/wildfire_viz_draft/index.html"
+},
+{
+    "title": "Wildfires Visualization (Round 2)",
+    "description": "A (more polished) bar chart visualization of wildfire burn area in the United States",
+    "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Watching_burned_area_from_sky.jpg/320px-Watching_burned_area_from_sky.jpg",
+    "date": "15 April 2024",
+    "url": "https://alejandromango.github.io/web_development_certificate_work/CS50C/wildfire_viz_final/index.html"
+}]}
